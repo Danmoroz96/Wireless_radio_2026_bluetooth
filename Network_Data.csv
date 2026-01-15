@@ -1,0 +1,14 @@
+Timestamp,Parameter,Value,Unit,Category
+14:50:03,Serving PLMN,244-05,MCC-MNC,Network ID
+14:50:03,LTE Band,3,Band,Radio Frequency
+14:50:03,Bandwidth (BW),20.0,MHz,Radio Frequency
+14:50:03,EARFCN,1825,ID,Frequency Channel
+14:50:03,PCI,62,ID,Physical Cell Identity
+14:50:03,TAC,21705,ID,Tracking Area Code
+14:50:03,RSRP (Total),-88,dBm,Signal Strength
+14:50:03,RSRQ (Total),-12,dB,Signal Quality
+14:50:03,SNR (SINR),4,dB,Interference Level
+14:50:10,Carrier Aggregation,Band 1,Band,Network Tech
+14:50:10,CA Bandwidth,20.0,MHz,Radio Frequency
+14:52:00,Tx Pwr,-1,dBm,Uplink Power
+14:52:00,UL Modulation,64QAM,Type,Modulation
