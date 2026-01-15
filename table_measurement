@@ -1,8 +1,1 @@
-Parameter,Observed Value,Description
-Serving Cell,Band 3 (1800 MHz),Primary carrier frequency
-Bandwidth,20.0 MHz,Spectrum width for the primary cell
-Signal Strength (RSRP),-88 dBm to -92 dBm,Reference Signal Received Power
-Signal Quality (RSRQ),-9 dB to -13 dB,Reference Signal Received Quality
-Interference (SNR),3 dB to 6 dB,Signal-to-Noise Ratio
-Carrier Aggregation,Active (B3 + B1),Combining multiple bands for higher speed
-Modulation,64QAM (UL),Current uplink encoding scheme
+
