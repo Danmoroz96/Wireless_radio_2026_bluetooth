@@ -13,7 +13,7 @@ Test Date: January 14, 2026.
 
 
 3. Collected Measurement Data
-The following data was captured during a live LTE-Advanced (4G+) session. The results are shown in Excel file.
+The following data was captured during a live LTE-Advanced (4G+) session. The results are shown in Excel file called Network_Data.csv.
 
 4. Technical Analysis
 Signal Strength vs. Quality
